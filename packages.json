@@ -1,0 +1,98 @@
+[
+    {
+        "package": "orderly",
+        "url": "https://github.com/vimc/orderly",
+        "branch": "master"
+    },
+    {
+        "package": "vaultr",
+        "url": "https://github.com/vimc/vaultr",
+        "branch": "master"
+    },
+    {
+        "package": "orderlyweb",
+        "url": "https://github.com/vimc/orderlyweb",
+        "branch": "master"
+    },
+    {
+        "package": "orderly.rstudio",
+        "url": "https://github.com/vimc/orderly.rstudio",
+        "branch": "master"
+    },
+    {
+        "package": "orderly.sharepoint",
+        "url": "https://github.com/vimc/orderly.sharepoint",
+        "branch": "master"
+    },
+    {
+        "package": "projections",
+        "url": "https://github.com/reconhub/projections",
+        "branch": "release"
+    },
+    {
+        "package": "EpiEstim",
+        "url": "https://github.com/mrc-ide/EpiEstim",
+        "branch": "release"
+    },
+    {
+        "package": "sircovid",
+        "url": "https://github.com/mrc-ide/sircovid",
+        "branch": "master"
+    },
+    {
+        "package": "dde",
+        "url": "https://github.com/mrc-ide/dde",
+        "branch": "master"
+    },
+    {
+        "package": "squire",
+        "url": "https://github.com/mrc-ide/squire",
+        "branch": "master"
+    },
+    {
+        "package": "odin.js",
+        "url": "https://github.com/mrc-ide/odin.js",
+        "branch": "master"
+    },
+    {
+        "package": "odin",
+        "url": "https://github.com/mrc-ide/odin",
+        "branch": "master"
+    },
+    {
+        "package": "spud",
+        "url": "https://github.com/reside-ic/spud",
+        "branch": "master"
+    },
+    {
+        "package": "fstorr",
+        "url": "https://github.com/reside-ic/fstorr",
+        "branch": "master"
+    },
+    {
+        "package": "hermione",
+        "url": "https://github.com/mrc-ide/hermione",
+        "branch": "master"
+    },
+    {
+        "package": "epidemia",
+        "url": "https://github.com/ImperialCollegeLondon/epidemia",
+        "branch": "6e5c800"
+    },
+
+    {
+        "package": "dust",
+        "url": "https://github.com/mrc-ide/dust",
+        "branch": "master"
+    },
+    {
+        "package": "odin.dust",
+        "url": "https://github.com/mrc-ide/odin.dust",
+        "branch": "master"
+    },
+    {
+        "package": "mcstate",
+        "url": "https://github.com/mrc-ide/mcstate",
+        "branch": "master"
+    }
+]
