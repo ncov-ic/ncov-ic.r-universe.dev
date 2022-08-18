@@ -94,5 +94,20 @@
         "package": "mcstate",
         "url": "https://github.com/mrc-ide/mcstate",
         "branch": "master"
+    },
+    {
+        "package": "spimalot",
+        "url": "https://github.com/mrc-ide/spimalot",
+        "branch": "master"
+    },
+    {
+        "package": "pika",
+        "url": "https://github.com/mrc-ide/pika",
+        "branch": "master"
+    },
+    {
+        "package": "drjacoby",
+        "url": "https://github.com/mrc-ide/drjacoby",
+        "branch": "master"
     }
 ]
